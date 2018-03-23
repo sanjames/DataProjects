@@ -11,3 +11,5 @@ My Kaggle submission is in https://www.kaggle.com/sanjames/json-parsing-linear-r
 2) Kaggle Project Titanic Survival Prediction: https://www.kaggle.com/sanjames/my-first-attempt-in-titanic-analysis
 
 3) Kaggle Project - Indian Liver patients analysis, prediction and accuracy https://www.kaggle.com/sanjames/liver-patients-analysis-prediction-accuracy
+
+4) USA Mass shootings - EDA, Visualizations using plotly https://www.kaggle.com/sanjames/mass-shootings-data-cleaning-eda-insights
