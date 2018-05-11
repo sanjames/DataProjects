@@ -1,5 +1,5 @@
 # DataProjects
-List of Data Projects done
+List of Data Projects done - ongoing basis
 
 1) Kaggle Project Movie Database: https://www.kaggle.com/tmdb/tmdb-movie-metadata
 This dataset has information from The Movie Database (TMDb). It has the files:
@@ -12,4 +12,10 @@ My Kaggle submission is in https://www.kaggle.com/sanjames/json-parsing-linear-r
 
 3) Kaggle Project - Indian Liver patients analysis, prediction and accuracy https://www.kaggle.com/sanjames/liver-patients-analysis-prediction-accuracy
 
-4) USA Mass shootings - EDA, Visualizations using plotly https://www.kaggle.com/sanjames/mass-shootings-data-cleaning-eda-insights
+4) XGBoost for predicting houseprices https://www.kaggle.com/c/house-prices-advanced-regression-techniques
+
+5) USA Mass shootings - EDA, Visualizations using plotly https://www.kaggle.com/sanjames/mass-shootings-data-cleaning-eda-insights
+
+6) Rossman Store sales Predictions using Randomforest regression - https://www.kaggle.com/c/rossmann-store-sales
+
+7) Image recognition - Convolutional Neural nets - InProgress
